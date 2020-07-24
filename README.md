@@ -1,1 +1,5 @@
-![justCode](https://raw.githubusercontent.com/kishanchaitanya/kishanchaitanya/master/images/justCode.gif)
+<p align="center">
+  <a href="">
+    <img src="images/justCode.gif" alt="justCode">
+  </a>
+</p>
