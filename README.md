@@ -1,1 +1,1 @@
-![justCode](https://raw.githubusercontent.com/praveenscience/praveenscience/master/images/justCode.gif)
+![justCode](https://raw.githubusercontent.com/kishanchaitanya/kishanchaitanya/master/images/justCode.gif)
